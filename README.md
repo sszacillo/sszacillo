@@ -19,7 +19,6 @@ I enjoy building solutions ranging from low-level hardware drivers to data analy
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00B5AD?style=for-the-badge&logo=thethingsnetwork&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -40,7 +39,7 @@ I enjoy building solutions ranging from low-level hardware drivers to data analy
 
 - 🧠 **[ManagmentApp](https://github.com/sszacillo/managmentapp)**  
   A Java-based desktop application for managing business operations and database records.  
-  *(Java, Swing, JDBC, desktop tools)*
+  *(Python, Django)*
 
 - 🚚 **[VRP-EA-optimization](https://github.com/JGZimek/VRP-EA-optimization)**  
   Vehicle Routing Problem solved using evolutionary algorithms, with performance metrics and visualization.  
