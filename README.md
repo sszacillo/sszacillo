@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Szymon
 
-🎓 Engineer / 💻 Embedded & Python Developer / 📊 Passionate about algorithms, compression, and IoT systems
+🎓 Engineer / 💻 Embedded & Python Developer / 📊 Passionate about IoT systems
 
 I hold a Bachelor's degree in IT Automation Systems and am currently pursuing my Master's in the same field.  
 I enjoy building solutions ranging from low-level hardware drivers to data analysis and wireless communication systems.
@@ -34,10 +34,6 @@ I enjoy building solutions ranging from low-level hardware drivers to data analy
   A lossy audio compression app with custom algorithms, quality analysis, and visualizations.  
   *(Python, NumPy, matplotlib, custom algorithms)*
 
-- 🔍 **[Perceptron from scratch](https://github.com/JGZimek/perceptron)**  
-  A custom Perceptron classifier built from scratch with scikit-learn-like API and evaluated on the Banknote Authentication dataset.  
-  *(Python, ML, custom API, visualization)*
-
 - 🏠 **[Smarthome](https://github.com/sszacillo/Smarthome)**  
   A modular smart home automation platform designed for scalable sensor control and remote management.  
   *(MQTT, sensors, embedded systems, automation)*
@@ -48,7 +44,7 @@ I enjoy building solutions ranging from low-level hardware drivers to data analy
 
 - 🚚 **[VRP-EA-optimization](https://github.com/JGZimek/VRP-EA-optimization)**  
   Vehicle Routing Problem solved using evolutionary algorithms, with performance metrics and visualization.  
-  *(Python,)*
+  *(C++)*
 
 ---
 
