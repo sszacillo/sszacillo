@@ -1,14 +1,14 @@
-# 👋 Cześć! Jestem Szymon
+# 👋 Hi there! I'm Szymon
 
-🎓 Student / 💻 Embedded Developer / 
+🎓 Engineer / 💻 Embedded & Python Developer / 📊 Passionate about algorithms, compression, and IoT systems
 
-## 🛠️ Technologie i narzędzia, z którymi pracuję:
-- **Języki**: C, C++, Python
-- **Embedded**: STM32, ESP32, Arduino, FreeRTOS, Zephyr OS
-- **Dev Tools**: Git, GitHub, VS Code, PlatformIO
-- **Protokoły**: MQTT, LoRaWAN, Modbus, SPI, I2C, UART
+I hold a Bachelor's degree in IT Automation Systems and am currently pursuing my Master's in the same field.  
+I enjoy building solutions ranging from low-level hardware drivers to data analysis and wireless communication systems.
 
-## 🧠 Stack technologiczny
+
+---
+
+## 🧠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,17 +19,43 @@
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00B5AD?style=for-the-badge&logo=thethingsnetwork&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Projekty, które warto sprawdzić:
+## 📂 Highlighted Projects
 
-- 🔌 **[LoRaBeeMonitor](https://github.com/sszacillo/LoRaBeeMonitor)** – system monitorujący ule z wykorzystaniem LoRaWAN, Protobufa i panelu webowego
-- 🔄 **[compression-app](https://github.com/JGZimek/compression-app)** – aplikacja do stratnej i bezstratnej kompresji sygnałów
-- 🔍 **[Perceptron](https://github.com/sszacillo/Perceptron)** – własna implementacja klasyfikatora Perceptron w stylu scikit-learn
+- 🐝 **[beehive-monitor](https://github.com/sszacillo/beehive-monitor)**  
+  A microcontroller-based system for monitoring environmental conditions and hive weight, using LoRaWAN for data transmission.  
+  *(Zephyr, LoRaWAN, MQTT, environmental sensors)*
 
+- 🔄 **[compression-app](https://github.com/JGZimek/compression-app)**  
+  A lossy audio compression app with custom algorithms, quality analysis, and visualizations.  
+  *(Python, NumPy, matplotlib, custom algorithms)*
 
+- 🔍 **[Perceptron from scratch](https://github.com/JGZimek/perceptron)**  
+  A custom Perceptron classifier built from scratch with scikit-learn-like API and evaluated on the Banknote Authentication dataset.  
+  *(Python, ML, custom API, visualization)*
 
-## 📫 Jak się ze mną skontaktować:
-- ✉️ Email: sszacillo@gmail.com
+- 🏠 **[Smarthome](https://github.com/sszacillo/Smarthome)**  
+  A modular smart home automation platform designed for scalable sensor control and remote management.  
+  *(MQTT, sensors, embedded systems, automation)*
+
+- 🧠 **[ManagmentApp](https://github.com/sszacillo/managmentapp)**  
+  A Java-based desktop application for managing business operations and database records.  
+  *(Java, Swing, JDBC, desktop tools)*
+
+- 🚚 **[VRP-EA-optimization](https://github.com/JGZimek/VRP-EA-optimization)**  
+  Vehicle Routing Problem solved using evolutionary algorithms, with performance metrics and visualization.  
+  *(Python,)*
+
+---
+
+## 📫 Get in Touch
+
+- ✉️ Email: **[sszacillo@gmail.com]**)
+
+---
+
+> 💡 *This profile is constantly evolving — more projects on the way!*
